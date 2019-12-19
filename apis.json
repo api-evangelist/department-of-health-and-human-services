@@ -1,0 +1,49 @@
+{
+    "name": "Department of Health and Human Services",
+    "description": "<p>The United States Department of Health and Human Services (HHS), also known as the Health Department, is a cabinet-level department of the U.S. federal government with the goal of protecting the health of all Americans and providing essential human services. Its motto is \"Improving the health, safety, and well-being of America\".[3] Before the separate federal Department of Education was created in 1979, it was called the Department of Health, Education, and Welfare (HEW).<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-US-DeptOfHHS-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-health-and-human-services\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Health and Human Services",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-US-DeptOfHHS-Seal.svg.png",
+            "humanURL": "http:\/\/www.hhs.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-health-and-human-services-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/hub.healthdata.gov\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.hhs.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hhs.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Department_of_Health_and_Human_Services"
+        }
+    ]
+}
